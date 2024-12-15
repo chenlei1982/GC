@@ -19,4 +19,5 @@ Step 3: For each generated csv file, using the codes of one classification algor
 Other notes
 
 In each folder, the file "comd" contains the codes to run the corresponding package.
+
 The input file of MCFS should be in adx format, whereas those for other algorithms are in csv format.
