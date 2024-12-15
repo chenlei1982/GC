@@ -1,4 +1,0 @@
-foreach file (input_file)
-python sk-svm-kfold-smote-run.py --datapath $file -c 1000.0 -r 1 -k 10 --kernel=rbf -n 2 > rates_10-fold_SK_SVM_rbf_c_1000_r_1_$file
-end
-
