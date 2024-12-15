@@ -1,0 +1,3 @@
+foreach file (input_file)
+python sk-knn-kfold-smote-run.py --datapath $file -n 1 -r 0 -k 10 >  rate_SK_KNN_n_1_k_10_$file
+end
