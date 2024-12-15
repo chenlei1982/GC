@@ -1,2 +1,0 @@
-python3 New_Feature_selection_by_Lasso.py -m 1000 -i input_file -o output_file
-
