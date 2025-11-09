@@ -16,6 +16,16 @@ Step 2: With the feature list in Step 1, using codes in folder csv_make to gener
 
 Step 3: For each generated csv file, using the codes of one classification algorithm to obtain the cross-validation results.
 
+Explanations on folders
+
+1. Classification-algorithm: This folder contains the codes of four classification algorithms. The names of folders in this folder indicate the classification algorithms.
+
+2. csv_make: This folder contains the codes for generating the datasets based on some top features in each list.
+
+3. feature-ranking-algorithm: This folder contains the codes of sevel feature selection algorithms. The names of folders in the folder indciate the corresponding algorithms.
+
+4. results: This folder contains the supplementary materials of this analysis.
+
 Other notes
 
 In each folder, the file "comd" contains the codes to run the corresponding package.
